@@ -1,0 +1,9 @@
+bin/
+cache/
+typechain/
+artifacts/
+
+node_modules
+
+.env
+.vscode
